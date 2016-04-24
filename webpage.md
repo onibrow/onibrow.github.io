@@ -1,6 +1,6 @@
 #Seiya Ono
 
-<seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | github.com/onibrow
+<seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | <github.com/onibrow>
 
 -----
 
