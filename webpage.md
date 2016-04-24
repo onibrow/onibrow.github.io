@@ -52,27 +52,27 @@ Help out GSI’s in Lab and Office Hours by answering students’ questions. Kee
 
 * Hog
 
-![Hog](img/hog.png)
-
 A mathematical, dice rolling based game
+
+![Hog](img/hog.png)
 
 * Maps
 
-![Maps](img/maps.png)
-
 Webapp that cuts a map into sections based off of food preference. Uses k-means to determine cluster centers for restaurants that the user likes. 
+
+![Maps](img/maps.png)
 
 * Ants
 
-![Ants](img/ants.png)
-
 Game similar to Plants vs Zombies, where there are ants that use food to fight against an onslaught of Stanford bees.
+
+![Ants](img/ants.png)
 
 * Scheme
 
-![Scheme](img/scheme.png)
-
 Python backboned scheme interpreter.
+
+![Scheme](img/scheme.png)
 
 ###CS61B Projects <a id="CS61B"></a>
 
