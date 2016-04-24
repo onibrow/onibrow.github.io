@@ -1,6 +1,6 @@
--> #Seiya Ono <-
+#Seiya Ono
 
--> <seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | github.com/onibrow <-
+<seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | github.com/onibrow
 
 -----
 
@@ -50,9 +50,15 @@ Help out GSI’s in Lab and Office Hours by answering students’ questions. Kee
 
 ###Programming Languages
 
--> Java Python <-
+* Java
+* Python
 
 ###General Skills
 
--> GNU/Linux    Computer Building   Latex   Django <-
--> Japanese     Basic Photoshop     Vim     Git <-
+* GNU/Linux
+* Computer Building
+* Latex
+* Japanese
+* Basic Photoshopi
+* Vim
+* Git 
