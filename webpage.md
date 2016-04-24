@@ -12,8 +12,8 @@ Bachelor of Science: Electrical Engineering & Computer Science
 
 ####Course Work:
 
-* Structure and Interpretation of Computer Programs (CS61A)
-* Data Structures and Advanced Programming (CS61B)
+* Structure and Interpretation of Computer Programs [CS61A](#CS61A)
+* Data Structures and Advanced Programming [CS61B](#CS61B)
 * Designing Information & Devices Systems I (EE16A)
 * Designing Information & Devices Systems II (EE16B)
 
@@ -45,6 +45,21 @@ Help out GSI’s in Lab and Office Hours by answering students’ questions. Kee
 * Mentor local high school robotics team:
     * Involve underprivileged kids in STEM
     * Give advice on robot builds and encourage higher education
+
+##Projects
+
+###CS61A Projects <a id="CS61A"></a>
+
+* Hog
+
+
+* Maps
+
+* Ants
+
+* Scheme
+
+###CS61B Projects <a id="CS61B"></a>
 
 ##Skills
 
