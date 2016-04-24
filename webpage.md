@@ -97,6 +97,6 @@ Python backboned scheme interpreter.
 * Computer Building
 * Latex
 * Japanese
-* Basic Photoshopi
+* Basic Photoshop
 * Vim
 * Git 
