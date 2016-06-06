@@ -1,7 +1,7 @@
 #Seiya Ono
 <seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | [github](https://github.com/onibrow)
 
-[Home](onibrow.github.io) | [Projects](onibrow.github.io/priojects.html) | [Builds](onibrow.github.io/builds.html)
+[Home](/) | [Projects](/projects.html) | [Builds](/builds.html)
 
 -----
 
@@ -37,11 +37,29 @@ Python backboned scheme interpreter.
 
 * NBody
 
+Planetary orbit simulation.
+
 * Array / Linked List Double Ended Queue
+
+Implmented the Array and Linked List Double Ended Queue. API included:
+```java
+addFirst(Item)
+addLast(Item)
+isEmpty()
+size()
+printDeque()
+removeFirst()
+removeLast()
+get(int index)
+```
 
 * Editor
 
+A graphical text editor.
+
 * Bear Maps
+
+Google Maps-like mapping using OSM. Has
 
 ##Skills
 

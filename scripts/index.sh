@@ -6,4 +6,4 @@ echo "Writing to index.html"
 
 cd $REPO_ROOT_DIR
 
-markdown markdown/index.md > html/index.html
+markdown markdown/index.md > index.html
