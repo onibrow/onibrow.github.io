@@ -39,29 +39,11 @@ Python backboned scheme interpreter.
 
 Planetary orbit simulation.
 
+![NBody](img/nbody.png)
+
 * Array / Linked List Double Ended Queue
 
-Implmented the Array and Linked List Double Ended Queue. API included:
-
-```java
-
-addFirst(Item)
-
-addLast(Item)
-
-isEmpty()
-
-size()
-
-printDeque()
-
-removeFirst()
-
-removeLast()
-
-get(int index)
-
-```
+Implmented the Array and Linked List Double Ended Queue. API included addFirst, addLast, isEmpty, size, printDeque, removeFirst, removeLast, and get.
 
 * Editor
 
@@ -70,3 +52,5 @@ A graphical text editor.
 * Bear Maps
 
 Google Maps-like mapping using OSM. Has zoom, refocusing, and shortest paths implemented.
+
+![BearMaps](img/bearmaps.jpg)
