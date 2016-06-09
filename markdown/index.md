@@ -5,4 +5,9 @@
 
 -----
 
-Welcome to my website!
+#Welcome to my website!
+
+##Bio
+
+Name: Seiya Ono
+Age: 19
