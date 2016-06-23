@@ -7,52 +7,72 @@
 
 ##Projects
 
-###CS61A Projects 
+###School
 
-####Hog
+####CS61A Projects 
+
+#####Hog
 
 * A mathematical, dice rolling based game
 
 ![Hog](img/hog.png)
 
-####Maps
+#####Maps
 
 * Webapp that cuts a map into sections based off of food preference. Uses k-means to determine cluster centers for restaurants that the user likes. 
 
 ![Maps](img/maps.png)
 
-####Ants
+#####Ants
 
 * Game similar to Plants vs Zombies, where there are ants that use food to fight against an onslaught of Stanford bees.
 
 ![Ants](img/ants.png)
 
-####Scheme
+#####Scheme
 
 * Python backboned scheme interpreter.
 
 ![Scheme](img/scheme.png)
 
-###CS61B Projects <a id="CS61B"></a>
+####CS61B Projects 
 
-####NBody
+#####NBody
 
 * Planetary orbit simulation.
 
 ![NBody](img/nbody.png)
 
-####Array / Linked List Double Ended Queue
+#####Array / Linked List Double Ended Queue
 
 * Implmented the Array and Linked List Double Ended Queue. API included addFirst, addLast, isEmpty, size, printDeque, removeFirst, removeLast, and get.
 
-####Editor
+#####Editor
 
 * A graphical text editor.
 
 ![Editor](img/editor.png)
 
-####Bear Maps
+#####Bear Maps
 
-* Google Maps-like mapping using OSM. Has zoom, refocusing, and shortest paths implemented.
+* Google Maps-like mapping using OSM. Has zoom, refocusing, and shortest path implemented.
 
 ![BearMaps](img/bearmaps.jpg)
+
+###EE16A
+
+###EE16B
+
+##PiE
+
+###DevOps
+
+###Smart Sensors
+
+###Leaky Revamp
+
+##Personal
+
+###Frog vs Cilantro
+
+###PINE64
