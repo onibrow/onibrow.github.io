@@ -75,7 +75,7 @@
 
 ####Sixt33n Bot
 
-* A dual motor voice controlled robot. [Mic Demo](https://youtu.be/tMfif46MHRk) [Bot Demo](https://youtu.be/tMfif46MHRk)
+* A dual motor voice controlled robot. [Mic Demo](https://youtu.be/v12evuxo0WE) [Bot Demo](https://youtu.be/tMfif46MHRk)
 
 ![Sixt33n](img/car.jpg)
 
