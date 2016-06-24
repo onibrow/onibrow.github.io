@@ -10,4 +10,7 @@
 ##Bio
 
 Name: Seiya Ono
+
 Age: 19
+
+2nd Year EECS @ UC Berkeley

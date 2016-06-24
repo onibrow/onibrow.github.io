@@ -61,11 +61,30 @@
 
 ###EE16A
 
+####Light Sensor Scanning
+
+####Resistive Touch Screen
+
+####Capacitive Touch Screen
+
+####Locationing
+
 ###EE16B
 
-##PiE
+####Simulated BMI
+
+####Sixt33n Bot
+
+* A dual motor voice controlled robot. [Mic Demo](https://youtu.be/tMfif46MHRk) [Bot Demo](https://youtu.be/tMfif46MHRk)
+
+![Sixt33n](img/car.jpg)
+
+##[Pioneers in Engineering](https://pioneers.berkeley.edu/)
 
 ###DevOps
+
+* Deploy Beagle Bone Blacks with custom software, and install secure updates 
+* Develop a continuous integration system
 
 ###Smart Sensors
 
