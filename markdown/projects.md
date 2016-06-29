@@ -87,7 +87,9 @@
 * Categorizing different neuron firings from a simulated BMI usingDiscrete Fourier Transform to view the energy of different states of a subject and Principle Component Analysis to sort different signals from neurons.
 
 ![Frequency Categories](img/freq.png)
+
 ![Sort Neurons](img/sort.png)
+
 ![Categorize Mass Data](img/pca.png)
 
 ####Sixt33n Bot
