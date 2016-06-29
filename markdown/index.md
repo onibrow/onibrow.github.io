@@ -7,6 +7,8 @@
 
 #Welcome to my website!
 
+![Me](img/me.jpg)
+
 ##Bio
 
 Name: Seiya Ono
