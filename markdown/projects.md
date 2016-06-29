@@ -63,15 +63,32 @@
 
 ####Light Sensor Scanning
 
+* Use single pixel photodiode to try and image a playing card
+
+![Scanning Setup](img/scan.png)
+![Card Image](img/card.png)
+
 ####Resistive Touch Screen
+
+* Create a resistive touch screen with 9 spots
+
+![Resistive Touch screen](img/res_touch.jpg)
 
 ####Capacitive Touch Screen
 
-####Locationing
+* Made a single pixel capacitive touch screen
+
+![Capacitive Touch Screen](img/cap_touch.png)
 
 ###EE16B
 
 ####Simulated BMI
+
+* Categorizing different neuron firings from a simulated BMI usingDiscrete Fourier Transform to view the energy of different states of a subject and Principle Component Analysis to sort different signals from neurons.
+
+![Frequency Categories](img/freq.png)
+![Sort Neurons](img/sort.png)
+![Categorize Mass Data](img/pca.png)
 
 ####Sixt33n Bot
 
