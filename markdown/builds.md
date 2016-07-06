@@ -19,7 +19,7 @@ Peachy-PC is my first self build tower. I picked out the parts and assembled it 
 
 ![melon](img/melon1.JPG)
 
-![melon-back](img/melond2.JPG)
+![melon-back](img/melon2.JPG)
 
 Melon is an Acer Chromebook, one of the first of its kind. I got this as a christmas present back in 2013 when the Chromebooks first came out. It has gone through many iterations, including [crouton](https://www.linux.com/learn/how-easily-install-ubuntu-chromebook-crouton), to Arch GNU/Linux (by enabling [legacy boot](https://wiki.archlinux.org/index.php/Chrome_OS_devices)) running GNOME, to LXDE, and then back to crouton. Despite its cheap price and low specs, it runs Arch very well, especially on the ultra-lightweight Light X11 DE. Melon gets its name from its mangled outside to unpredicatble innards with its constantly changing OS.
 
