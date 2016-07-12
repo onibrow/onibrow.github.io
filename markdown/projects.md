@@ -1,7 +1,7 @@
 #Seiya Ono
 <seiya.ono12@gmail.com> | (949) Two Seven Eight - Six Four Four Three | [github](https://github.com/onibrow)
 
-[Home](/) | [Projects](/projects.html) | [Builds](/builds.html)
+[Home](/) | [Projects](/projects.html) | [Builds](/builds.html) | [Tutoring](/tutor.html)
 
 -----
 
@@ -109,8 +109,6 @@
 
 ###Leaky Revamp
 
-##Personal
+* Redesign the topboard of the RFID activated door opnening robot to club room to a PCB
 
-###Frog vs Cilantro
-
-###PINE64
+![Leaky](img/leaky1.jpg)

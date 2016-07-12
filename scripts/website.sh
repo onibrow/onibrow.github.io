@@ -16,4 +16,8 @@ echo "Writing builds"
 
 markdown markdown/builds.md > builds.html
 
+echo "Writng tutor"
+
+markdown markdown/tutor.md > tutor.html
+
 echo "Done"
