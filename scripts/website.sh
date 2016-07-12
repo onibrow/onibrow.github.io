@@ -6,18 +6,24 @@ cd $REPO_ROOT_DIR
 
 echo "Writing index"
 
-markdown markdown/index.md > index.html
+markdown markdown/index.md > test-index.html
+cat scripts/header test-index.html > index.html
 
 echo "Writing projects"
 
-markdown markdown/projects.md > projects.html
+markdown markdown/projects.md > test-projects.html
+cat scripts/header test-projects.html > projects.html
 
 echo "Writing builds"
 
-markdown markdown/builds.md > builds.html
+markdown markdown/builds.md > test-builds.html
+cat scripts/header test-builds.html > builds.html
 
 echo "Writng tutor"
 
-markdown markdown/tutor.md > tutor.html
+markdown markdown/tutor.md > test-tutor.html
+cat scripts/header test-tutor.html > tutor.html
+
+rm test-*
 
 echo "Done"
