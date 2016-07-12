@@ -7,7 +7,7 @@
 
 #Private Tutoring
 
-I have done private tutoring since 2012, when I was a sophomore in high school. Ever since, I have had many clients of varying ages, coming to me for a range of subjects.
+I have done private tutoring since 2012, when I was a sophomore in high school. Ever since, I have had many clients of varying ages coming to me for a range of subjects.
 
 ##Nao I.
 
