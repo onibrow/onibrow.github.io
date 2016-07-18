@@ -7,7 +7,7 @@ cd $REPO_ROOT_DIR
 echo "Writing index"
 
 markdown markdown/index.md > test-index.html
-cat scripts/header test-index.html > index.html
+cat scripts/header test-index.html > index2.html
 
 echo "Writing projects"
 
