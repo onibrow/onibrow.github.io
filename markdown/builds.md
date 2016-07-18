@@ -7,7 +7,7 @@
 
 # Computer Builds
 
-All my builds are named after fruits. Why? Well... I like fruit?
+All my builds are named after fruits. Why? I like fruit.
 
 ## Peachy-PC
 
