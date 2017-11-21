@@ -49,6 +49,24 @@
 <p>A small bullet-hell game made by learning pygame. Inspired by my dislike of cilantro and like of frogs. Play it <a href="https://github.com/onibrow/frogvscilantro">here</a>!</p>
 <p><img src="img/frog.gif" alt="frog"></p>
 
+          <h4>Binary Clock</h4>
+  <p>Pine64 Powered binary clock using the Pi-2 Bus, RPi.GPIO, LEDs, and Resistors. Find the details <a href="https://github.com/onibrow/binary-clock">here</a>.</p>
+  <p><img src="img/binclock.jpg" alt="binclock"></p>
+  <p>Post Protoboard Move</p>
+  <p><img src="img/binclock2.jpg" alt="binclock"></p>
+  <p><img src="img/binclock3.jpg" alt="binclock"></p>
+        
+        
+          <h4>Photo Booth Bot</h4>
+  <p>A Pine64 powered photobooth that uses Twitter's twurl API. It is also integrated with the above Binary clock. More info <a href="https://github.com/onibrow/nichijou_photos">here</a> as well as a <a href="https://youtu.be/MrwRJgcW1X0">demo</a>.</p>
+        <p>Cardboard Camera Mount</p>
+  <p><img src="img/photo-stand.jpg" alt="photo"></p>
+        <p>Inside of photo booth</p>
+  <p><img src="img/photo-inside.jpg" alt="photo"></p>
+        <p>Finished Exterior</p>
+  <p><img src="img/photo-front.jpg" alt="photo"></p>
+        
+        
 <h4>
     Mini Fridge Fix
 </h4>
@@ -61,14 +79,6 @@
   <p><img src="img/earbuds1.jpg" alt="binclock"></p>
   <p><img src="img/earbuds2.jpg" alt="binclock"></p>
 
-  
-  <h4>Binary Clock</h4>
-  <p>Pine64 Powered binary clock using the Pi-2 Bus, RPi.GPIO, LEDs, and Resistors. Find the details <a href="https://github.com/onibrow/binary-clock">here</a>.</p>
-  <p><img src="img/binclock.jpg" alt="binclock"></p>
-  <p>Post Protoboard Move</p>
-  <p><img src="img/binclock2.jpg" alt="binclock"></p>
-  <p><img src="img/binclock3.jpg" alt="binclock"></p>
-
   <h4>Fight Stick</h4>
   <p>Arcade Fight stick controlled using an Arduino Uno reflashed to be a USB Controller for GNU/Linux and Windows. More details <a href="https://github.com/onibrow/FightStick">here</a>.</p>
   <p><img src="img/fightstick4.jpg" alt="fightstick"></p>
@@ -79,14 +89,7 @@
   <p>The arcade stick used on my RetroPie setup</p>
   <p><img src="img/fightstick2.jpg" alt="fightstick"></p>
 
-  <h4>Photo Booth Bot</h4>
-  <p>A Pine64 powered photobooth that uses Twitter's twurl API. It is also integrated with the above Binary clock. More info <a href="https://github.com/onibrow/nichijou_photos">here</a> as well as a <a href="https://youtu.be/MrwRJgcW1X0">demo</a>.</p>
-        <p>Cardboard Camera Mount</p>
-  <p><img src="img/photo-stand.jpg" alt="photo"></p>
-        <p>Inside of photo booth</p>
-  <p><img src="img/photo-inside.jpg" alt="photo"></p>
-        <p>Finished Exterior</p>
-  <p><img src="img/photo-front.jpg" alt="photo"></p>
+
 
 
 
@@ -159,6 +162,154 @@
 <h2>
 <a id="school" class="anchor" href="#school" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>School</h2>
 
+        <h4>
+
+<a id="ee105" class="anchor" href="#ee105" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE105</h4>
+
+<h5>
+<a id="Op Amp Characterization" class="anchor" href="#op-amp-characterization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Op Amp Characterization</h3>
+
+<p>Test a real op amp's ability to amplify signals while observing non-ideal effects suchs as slew rate limited growth and input resistance while observing the gain-bandwidth product effect</p>
+
+<p><img src="img/opamp-1.png" alt="step"></p>
+
+<p><img src="img/opamp-2.png" alt="gbp"></p>
+
+<h5>
+<a id="Diodes and Photodetectors" class="anchor" href="#diodes-and-photodetectors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Diodes and Photodetectors</h3>
+
+<p>Transmit bits by sending out a blinking signal, where the receiver picks up the light and amplifies it to be read at the receiver side LED. Bit rate was limited with an opamp that could not keep up with a high bit rate due to its slew rate limiting.</p>
+
+<p><img src="img/diode-1.jpg" alt="circuit"></p>
+
+<p><img src="img/diode-2.png" alt="waveform"></p>
+
+<h5>
+<a id="MOSFET Characterization" class="anchor" href="#mosfet-characterization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>MOSFET Characterization</h3>
+
+<p>By adjusting gate-source voltage against a stable drain-source voltage on an NMOS Transistor, we could observe the three different regions of operation by measuring the capacitance of the MOS. Then used the transistor to make a touch detector.
+
+<p><img src="img/mosfet-1.png" alt="operation"></p>
+
+<p><img src="img/mosfet-2.png" alt="circuit"></p>
+
+<h5>
+<a id="Single Stage Amplifier" class="anchor" href="#single-stage-amplifier" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Single Stage Amplifier</h3>
+
+<p>Design a single stage common source amplifier with source degeneration to fit specific parameters such as middle band gain, hi and low cutt off freqeuncies, and output swing. Learned how to approximate poles and zeros to fit specific parameters and use decoupling techniques to fit parameters.</p>
+
+<p><img src="img/singleamp-1.jpg" alt="operation"></p>
+
+<p><img src="img/singleamp-2.png" alt="circuit"></p>
+
+<h5>
+<a id="Multi Stage Amplifier" class="anchor" href="#multi-stage-amplifier" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Multi Stage Amplifier</h3>
+
+<p>Design a multi stage amplifier using a common source with source degeneration, a common gate, and common drain structures to further increase the bandwidth of the amplifier. Used two port models to simplify the circuit to then calculate the RC constants and set bandwidths without loss of gain.</p> 
+
+<p><img src="img/multiamp-1.png" alt="operation"></p>
+        
+        
+        
+<h4>
+<a id="cs61c-projects" class="anchor" href="#cs61c-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CS61C Projects</h4>
+
+<h5>
+<a id="flight_ map" class="anchor" href="#flight_map" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Flight Map</h5>
+
+<p>Implementing a flight map simulation using linked lists</p>
+
+<p>Helped learning C, pointers, memory, and debugging skills</p>
+
+<h5>
+<a id="CALL" class="anchor" href="#call" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CALL</h5>
+
+<p>Implement basic Assembler and Linker in C and MIPS</p>
+
+<h5>
+<a id="Logisim Processor" class="anchor" href="#processor" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Logisim Processor</h5>
+
+<p>Create a basic processor in Logisim</p>
+
+<p><img src="img/regfile.png" alt="regfile"></p>
+
+<h5>
+<a id="Thread Level Parallelism" class="anchor" href="#parallelism" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Thread Level Parallelism</h5>
+
+<p>Used pragma OMP, loop unrolling, and x86 intrinsics to speed up a slow algorithm</p>
+
+<h5>
+<a id="Spark MapReduce" class="anchor" href="#mapreduce" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Spark MapReduce</h5>
+
+<p>Utilized Spark's MapReduce to compress videos frame by frame.</p>
+        
+        
+        
+        
+        
+<h4>
+<a id="ee16a" class="anchor" href="#ee16a" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE16A</h4>
+
+<h5>
+<a id="light-sensor-scanning" class="anchor" href="#light-sensor-scanning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Light Sensor Scanning</h5>
+
+<p>Use single pixel photodiode to try and image a playing card</p>
+
+<p><img src="img/scan.png" alt="Scanning Setup">
+<img src="img/card.png" alt="Card Image"></p>
+
+<h5>
+<a id="resistive-touch-screen" class="anchor" href="#resistive-touch-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Resistive Touch Screen</h5>
+
+<p>Create a resistive touch screen with 9 spots</p>
+
+<p><img src="img/res_touch.jpg" alt="Resistive Touch screen"></p>
+
+<h5>
+<a id="capacitive-touch-screen" class="anchor" href="#capacitive-touch-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Capacitive Touch Screen</h5>
+
+<p>Made a single pixel capacitive touch screen</p>
+
+<p><img src="img/cap_touch.png" alt="Capacitive Touch Screen"></p>
+
+<h5>
+<a id="Locationing" class="anchor" href="#Locationing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Locationing</h5>
+
+<p>2-D Sound Based Locationing</p>
+
+<p><img src="img/loc.png" alt="loc"></p>
+<h4>
+
+<p><img src="img/sigs.png" alt="sigs"></p>
+
+<h4>
+
+<a id="ee16b" class="anchor" href="#ee16b" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE16B</h4>
+
+<h5>
+<a id="simulated-bmi" class="anchor" href="#simulated-bmi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Simulated BMI</h3>
+
+<p>Categorizing different neuron firings from a simulated BMI using Discrete Fourier Transform to view the energy of different states of a subject and Principal Component Analysis to sort different signals from neurons.</p>
+
+<p><img src="img/freq.png" alt="Frequency Categories"></p>
+
+<p><img src="img/sort.png" alt="Sort Neurons"></p>
+
+<p><img src="img/pca.png" alt="Categorize Mass Data"></p>
+
+<h5>
+<a id="sixt33n-bot" class="anchor" href="#sixt33n-bot" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sixt33n Bot</h3>
+
+<p>A dual motor voice controlled robot. <a href="https://youtu.be/v12evuxo0WE">Mic Demo</a> <a href="https://youtu.be/tMfif46MHRk">Bot Demo</a></p>
+
+<p><img src="img/car.jpg" alt="Sixt33n"></p>
+
+  
+  
+  
+  
+  
+  
 <h4>
 <a id="cs61a-projects" class="anchor" href="#cs61a-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CS61A Projects</h4>
 
@@ -219,141 +370,10 @@
 
 <p><img src="img/bearmaps.jpg" alt="BearMaps"></p>
 
-<h4>
-<a id="cs61c-projects" class="anchor" href="#cs61c-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CS61C Projects</h4>
 
-<h5>
-<a id="flight_ map" class="anchor" href="#flight_map" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Flight Map</h5>
 
-<p>Implementing a flight map simulation using linked lists</p>
 
-<p>Helped learning C, pointers, memory, and debugging skills</p>
 
-<h5>
-<a id="CALL" class="anchor" href="#call" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CALL</h5>
-
-<p>Implement basic Assembler and Linker in C and MIPS</p>
-
-<h5>
-<a id="Logisim Processor" class="anchor" href="#processor" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Logisim Processor</h5>
-
-<p>Create a basic processor in Logisim</p>
-
-<p><img src="img/regfile.png" alt="regfile"></p>
-
-<h5>
-<a id="Thread Level Parallelism" class="anchor" href="#parallelism" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Thread Level Parallelism</h5>
-
-<p>Used pragma OMP, loop unrolling, and x86 intrinsics to speed up a slow algorithm</p>
-
-<h5>
-<a id="Spark MapReduce" class="anchor" href="#mapreduce" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Spark MapReduce</h5>
-
-<p>Utilized Spark's MapReduce to compress videos frame by frame.</p>
-
-<h4>
-<a id="ee16a" class="anchor" href="#ee16a" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE16A</h4>
-
-<h5>
-<a id="light-sensor-scanning" class="anchor" href="#light-sensor-scanning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Light Sensor Scanning</h5>
-
-<p>Use single pixel photodiode to try and image a playing card</p>
-
-<p><img src="img/scan.png" alt="Scanning Setup">
-<img src="img/card.png" alt="Card Image"></p>
-
-<h5>
-<a id="resistive-touch-screen" class="anchor" href="#resistive-touch-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Resistive Touch Screen</h5>
-
-<p>Create a resistive touch screen with 9 spots</p>
-
-<p><img src="img/res_touch.jpg" alt="Resistive Touch screen"></p>
-
-<h5>
-<a id="capacitive-touch-screen" class="anchor" href="#capacitive-touch-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Capacitive Touch Screen</h5>
-
-<p>Made a single pixel capacitive touch screen</p>
-
-<p><img src="img/cap_touch.png" alt="Capacitive Touch Screen"></p>
-
-<h5>
-<a id="Locationing" class="anchor" href="#Locationing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Locationing</h5>
-
-<p>2-D Sound Based Locationing</p>
-
-<p><img src="img/loc.png" alt="loc"></p>
-<h4>
-
-<p><img src="img/sigs.png" alt="sigs"></p>
-
-<h4>
-
-<a id="ee16b" class="anchor" href="#ee16b" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE16B</h4>
-
-<h5>
-<a id="simulated-bmi" class="anchor" href="#simulated-bmi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Simulated BMI</h3>
-
-<p>Categorizing different neuron firings from a simulated BMI using Discrete Fourier Transform to view the energy of different states of a subject and Principal Component Analysis to sort different signals from neurons.</p>
-
-<p><img src="img/freq.png" alt="Frequency Categories"></p>
-
-<p><img src="img/sort.png" alt="Sort Neurons"></p>
-
-<p><img src="img/pca.png" alt="Categorize Mass Data"></p>
-
-<h5>
-<a id="sixt33n-bot" class="anchor" href="#sixt33n-bot" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sixt33n Bot</h3>
-
-<p>A dual motor voice controlled robot. <a href="https://youtu.be/v12evuxo0WE">Mic Demo</a> <a href="https://youtu.be/tMfif46MHRk">Bot Demo</a></p>
-
-<p><img src="img/car.jpg" alt="Sixt33n"></p>
-
-<h4>
-
-<a id="ee105" class="anchor" href="#ee105" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>EE105</h4>
-
-<h5>
-<a id="Op Amp Characterization" class="anchor" href="#op-amp-characterization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Op Amp Characterization</h3>
-
-<p>Test a real op amp's ability to amplify signals while observing non-ideal effects suchs as slew rate limited growth and input resistance while observing the gain-bandwidth product effect</p>
-
-<p><img src="img/opamp-1.png" alt="step"></p>
-
-<p><img src="img/opamp-2.png" alt="gbp"></p>
-
-<h5>
-<a id="Diodes and Photodetectors" class="anchor" href="#diodes-and-photodetectors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Diodes and Photodetectors</h3>
-
-<p>Transmit bits by sending out a blinking signal, where the receiver picks up the light and amplifies it to be read at the receiver side LED. Bit rate was limited with an opamp that could not keep up with a high bit rate due to its slew rate limiting.</p>
-
-<p><img src="img/diode-1.jpg" alt="circuit"></p>
-
-<p><img src="img/diode-2.png" alt="waveform"></p>
-
-<h5>
-<a id="MOSFET Characterization" class="anchor" href="#mosfet-characterization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>MOSFET Characterization</h3>
-
-<p>By adjusting gate-source voltage against a stable drain-source voltage on an NMOS Transistor, we could observe the three different regions of operation by measuring the capacitance of the MOS. Then used the transistor to make a touch detector.
-
-<p><img src="img/mosfet-1.png" alt="operation"></p>
-
-<p><img src="img/mosfet-2.png" alt="circuit"></p>
-
-<h5>
-<a id="Single Stage Amplifier" class="anchor" href="#single-stage-amplifier" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Single Stage Amplifier</h3>
-
-<p>Design a single stage common source amplifier with source degeneration to fit specific parameters such as middle band gain, hi and low cutt off freqeuncies, and output swing. Learned how to approximate poles and zeros to fit specific parameters and use decoupling techniques to fit parameters.</p>
-
-<p><img src="img/singleamp-1.jpg" alt="operation"></p>
-
-<p><img src="img/singleamp-2.png" alt="circuit"></p>
-
-<h5>
-<a id="Multi Stage Amplifier" class="anchor" href="#multi-stage-amplifier" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Multi Stage Amplifier</h3>
-
-<p>Design a multi stage amplifier using a common source with source degeneration, a common gate, and common drain structures to further increase the bandwidth of the amplifier. Used two port models to simplify the circuit to then calculate the RC constants and set bandwidths without loss of gain.</p> 
-
-<p><img src="img/multiamp-1.png" alt="operation"></p>
 
 
         
